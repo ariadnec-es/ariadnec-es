@@ -1,4 +1,4 @@
-<h1 align="center">👋 Ariadne Cecília</h1>
+<h1 align="center">👋 Ariadne Evangelista</h1>
 
 <p align="center">
 Técnica em Redes • Bacharel em Ciência e Tecnologia •
