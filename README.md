@@ -16,7 +16,7 @@ Graduanda em Engenharia de Computação
 <p align="center">
 📂 <a href="https://github.com/ariadnec-es">Meus projetos</a> •
 ✉️ ariadneces@gmail.com •
-<a href="https://discord.gg/ariadnec.">Discord</a>
+<a href="https://discord.gg/ariadnec.">Discord: ariadnec.</a>
 </p>
 
 ---
