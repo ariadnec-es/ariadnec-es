@@ -6,14 +6,6 @@ Graduanda em Engenharia de Computação
 </p>
 
 <p align="center">
-📊 Dados • ⚙️ Automação • 🤖 IA Aplicada
-</p>
-
-<p align="center">
-🌱 Python | Machine Learning | Análise de Redes
-</p>
-
-<p align="center">
 <a href="https://github.com/ariadnec-es?tab=repositories" target="_blank">
 <img loading="lazy" src="https://img.shields.io/badge/Projetos%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
